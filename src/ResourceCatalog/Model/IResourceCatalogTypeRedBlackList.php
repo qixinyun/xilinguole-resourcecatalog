@@ -7,7 +7,11 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['NULL'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['XBXZCF'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['XBXZXK'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-        
+IResourceCatalog::TYPE['HEIMDFR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+IResourceCatalog::TYPE['HEIMDZRR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+IResourceCatalog::TYPE['HMDFR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+IResourceCatalog::TYPE['HMDZRR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+		//@position
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL']
     );
 }
