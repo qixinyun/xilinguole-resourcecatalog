@@ -7,11 +7,12 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'NULL' => 0,
         'XBXZCF' => 1,
         'XBXZXK' => 2,
-'HEIMDFR'=>3,
-'HEIMDZRR'=>4,
-'HMDFR'=>5,
-'HMDZRR'=>6,
-        //@position_type_7
+        'HEIMDFR'=>3,
+        'HEIMDZRR'=>4,
+        'HMDFR'=>5,
+        'HMDZRR'=>6,
+        'SFCYRYXX'=>7,
+        //@position_type_8
         'TEST' => 500,
     );
 
@@ -33,7 +34,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['XLGLMGYHXXHJ'] => array(),
         IUserGroup::ID['XLGLMGAJ'] => array(),
         IUserGroup::ID['XLGLMMZJ'] => array(),
-        IUserGroup::ID['XLGLMSFJ'] => array(),
+        IUserGroup::ID['XLGLMSFJ'] => array(self::TYPE['SFCYRYXX']),
         IUserGroup::ID['XLGLMCZJ'] => array(),
         IUserGroup::ID['XLGLMRLZYHSHBZJ'] => array(self::TYPE['HMDZRR'],self::TYPE['HMDFR'],self::TYPE['HEIMDZRR'],self::TYPE['HEIMDFR'],),
         IUserGroup::ID['XLGLMZRZYJ'] => array(),
