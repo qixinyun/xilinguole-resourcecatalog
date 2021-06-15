@@ -12,6 +12,9 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HMDFR'] => 'hmdfr',
         IResourceCatalog::TYPE['HMDZRR'] => 'hmdzrr',
         IResourceCatalog::TYPE['SFCYRYXX'] => 'sfcyryxx',
+IResourceCatalog::TYPE['LDMFXJGZZ'] => 'ldmfxjgzz',
+IResourceCatalog::TYPE['MBFQYML'] => 'mbfqyml',
+IResourceCatalog::TYPE['SHTTDJXX'] => 'shttdjxx',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test'
     );

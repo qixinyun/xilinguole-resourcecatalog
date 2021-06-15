@@ -12,7 +12,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'HMDFR'=>5,
         'HMDZRR'=>6,
         'SFCYRYXX'=>7,
-        //@position_type_8
+'LDMFXJGZZ'=>8,
+'MBFQYML'=>9,
+'SHTTDJXX'=>10,
+        //@position_type_11
         'TEST' => 500,
     );
 
@@ -33,7 +36,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['XLGLMKXJSJ'] => array(),
         IUserGroup::ID['XLGLMGYHXXHJ'] => array(),
         IUserGroup::ID['XLGLMGAJ'] => array(),
-        IUserGroup::ID['XLGLMMZJ'] => array(),
+        IUserGroup::ID['XLGLMMZJ'] => array(self::TYPE['SHTTDJXX'],self::TYPE['MBFQYML'],),
         IUserGroup::ID['XLGLMSFJ'] => array(self::TYPE['SFCYRYXX']),
         IUserGroup::ID['XLGLMCZJ'] => array(),
         IUserGroup::ID['XLGLMRLZYHSHBZJ'] => array(self::TYPE['HMDZRR'],self::TYPE['HMDFR'],self::TYPE['HEIMDZRR'],self::TYPE['HEIMDFR'],),
@@ -59,6 +62,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['GGZYGLZX'] => array(),
         IUserGroup::ID['XLGLMDSJFZGLJ'] => array(),
         IUserGroup::ID['XLGLMNYJ'] => array(),
+        IUserGroup::ID['XLGLMGH'] => array(self::TYPE['LDMFXJGZZ'],),
         //@position_usergroup
     );
 

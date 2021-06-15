@@ -42,5 +42,6 @@ interface IUserGroup extends IUserGroupIdentify
         'GGZYGLZX' => 35,
         'XLGLMDSJFZGLJ' => 36,
         'XLGLMNYJ' => 37,
+        'XLGLMGH' => 39
     );
 }
