@@ -25,7 +25,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK']
         ),
-        IUserGroup::ID['XLGLMFZHGGWYH'] => array(self::TYPE['HMDZRR'],self::TYPE['HMDFR'],self::TYPE['HEIMDZRR'],self::TYPE['HEIMDFR'],),
+        IUserGroup::ID['XLGLMFZHGGWYH'] => array(self::TYPE['HMDZRR'],self::TYPE['HMDFR'],self::TYPE['HEIMDZRR'],self::TYPE['HEIMDFR'],self::TYPE['SFCYRYXX']),
         IUserGroup::ID['RMYHXLGLMZXZH'] => array(),
         IUserGroup::ID['XLGLMWZZB'] => array(),
         IUserGroup::ID['XLGLMWXCB'] => array(),
