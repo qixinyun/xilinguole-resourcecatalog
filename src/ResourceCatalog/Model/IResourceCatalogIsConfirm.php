@@ -11,7 +11,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['HEIMDZRR'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['HMDFR'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['HMDZRR'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
-        IResourceCatalog::TYPE['SFCYRYXX'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['ZDRQXX'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
 IResourceCatalog::TYPE['LDMFXJGZZ'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
 IResourceCatalog::TYPE['MBFQYML'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
 IResourceCatalog::TYPE['SHTTDJXX'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],

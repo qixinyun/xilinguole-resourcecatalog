@@ -11,7 +11,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HEIMDZRR'] => '黑名单(自然人)',
         IResourceCatalog::TYPE['HMDFR'] => '红名单(法人)',
         IResourceCatalog::TYPE['HMDZRR'] => '红名单(自然人)',
-        IResourceCatalog::TYPE['SFCYRYXX'] => '重点人群信息',
+        IResourceCatalog::TYPE['ZDRQXX'] => '重点人群信息',
 IResourceCatalog::TYPE['LDMFXJGZZ'] => '劳动模范/先进工作者',
 IResourceCatalog::TYPE['MBFQYML'] => '民办非企业名录',
 IResourceCatalog::TYPE['SHTTDJXX'] => '社会团体登记信息',

@@ -11,7 +11,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HEIMDZRR'] => 'heimdzrr',
         IResourceCatalog::TYPE['HMDFR'] => 'hmdfr',
         IResourceCatalog::TYPE['HMDZRR'] => 'hmdzrr',
-        IResourceCatalog::TYPE['SFCYRYXX'] => 'sfcyryxx',
+        IResourceCatalog::TYPE['ZDRQXX'] => 'zdrqxx',
 IResourceCatalog::TYPE['LDMFXJGZZ'] => 'ldmfxjgzz',
 IResourceCatalog::TYPE['MBFQYML'] => 'mbfqyml',
 IResourceCatalog::TYPE['SHTTDJXX'] => 'shttdjxx',
