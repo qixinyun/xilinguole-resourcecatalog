@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeRedBlackList
@@ -12,19 +13,30 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['HMDFR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['HMDZRR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['SFCYRYXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['LDMFXJGZZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
-IResourceCatalog::TYPE['MBFQYML'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['SHTTDJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['SHGW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
-IResourceCatalog::TYPE['SSZK'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['STWJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['WFCXYZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['WFXFAQ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['WHGGAQ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['WPXS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['XSJMWL'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['YXGZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-IResourceCatalog::TYPE['ZZQMXD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['LDMFXJGZZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+        IResourceCatalog::TYPE['MBFQYML'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['SHTTDJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['SHGW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+        IResourceCatalog::TYPE['SSZK'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['STWJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['WFCXYZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['WFXFAQ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['WHGGAQ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['WPXS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['XSJMWL'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['YXGZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['ZZQMXD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['CXSFSCZTJBXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['HQBZDLY'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['KHTSSJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['MSSCSHCSJZXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['MSSCSHZYZFWXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['NDZJFWGZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['QGMXD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['QQGGSS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['RLJJZX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['RSGJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['SBYY'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL']
     );

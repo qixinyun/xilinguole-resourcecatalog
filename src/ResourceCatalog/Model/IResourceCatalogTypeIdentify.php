@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeIdentify
@@ -12,19 +13,30 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['HMDFR'] => 'HMDFR',
         IResourceCatalog::TYPE['HMDZRR'] => 'HMDZRR',
         IResourceCatalog::TYPE['SFCYRYXX'] => 'SFCYRYXX',
-IResourceCatalog::TYPE['LDMFXJGZZ'] => 'LDMFXJGZZ',
-IResourceCatalog::TYPE['MBFQYML'] => 'MBFQYML',
-IResourceCatalog::TYPE['SHTTDJXX'] => 'SHTTDJXX',
-IResourceCatalog::TYPE['SHGW'] => 'SHGW',
-IResourceCatalog::TYPE['SSZK'] => 'SSZK',
-IResourceCatalog::TYPE['STWJ'] => 'STWJ',
-IResourceCatalog::TYPE['WFCXYZ'] => 'WFCXYZ',
-IResourceCatalog::TYPE['WFXFAQ'] => 'WFXFAQ',
-IResourceCatalog::TYPE['WHGGAQ'] => 'WHGGAQ',
-IResourceCatalog::TYPE['WPXS'] => 'WPXS',
-IResourceCatalog::TYPE['XSJMWL'] => 'XSJMWL',
-IResourceCatalog::TYPE['YXGZ'] => 'YXGZ',
-IResourceCatalog::TYPE['ZZQMXD'] => 'ZZQMXD',
+        IResourceCatalog::TYPE['LDMFXJGZZ'] => 'LDMFXJGZZ',
+        IResourceCatalog::TYPE['MBFQYML'] => 'MBFQYML',
+        IResourceCatalog::TYPE['SHTTDJXX'] => 'SHTTDJXX',
+        IResourceCatalog::TYPE['SHGW'] => 'SHGW',
+        IResourceCatalog::TYPE['SSZK'] => 'SSZK',
+        IResourceCatalog::TYPE['STWJ'] => 'STWJ',
+        IResourceCatalog::TYPE['WFCXYZ'] => 'WFCXYZ',
+        IResourceCatalog::TYPE['WFXFAQ'] => 'WFXFAQ',
+        IResourceCatalog::TYPE['WHGGAQ'] => 'WHGGAQ',
+        IResourceCatalog::TYPE['WPXS'] => 'WPXS',
+        IResourceCatalog::TYPE['XSJMWL'] => 'XSJMWL',
+        IResourceCatalog::TYPE['YXGZ'] => 'YXGZ',
+        IResourceCatalog::TYPE['ZZQMXD'] => 'ZZQMXD',
+        IResourceCatalog::TYPE['CXSFSCZTJBXX'] => 'CXSFSCZTJBXX',
+        IResourceCatalog::TYPE['HQBZDLY'] => 'HQBZDLY',
+        IResourceCatalog::TYPE['KHTSSJ'] => 'KHTSSJ',
+        IResourceCatalog::TYPE['MSSCSHCSJZXX'] => 'MSSCSHCSJZXX',
+        IResourceCatalog::TYPE['MSSCSHZYZFWXX'] => 'MSSCSHZYZFWXX',
+        IResourceCatalog::TYPE['NDZJFWGZ'] => 'NDZJFWGZ',
+        IResourceCatalog::TYPE['QGMXD'] => 'QGMXD',
+        IResourceCatalog::TYPE['QQGGSS'] => 'QQGGSS',
+        IResourceCatalog::TYPE['RLJJZX'] => 'RLJJZX',
+        IResourceCatalog::TYPE['RSGJ'] => 'RSGJ',
+        IResourceCatalog::TYPE['SBYY'] => 'SBYY',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
