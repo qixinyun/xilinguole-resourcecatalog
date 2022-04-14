@@ -15,6 +15,16 @@ interface IResourceCatalogTypeIdentify
 IResourceCatalog::TYPE['LDMFXJGZZ'] => 'LDMFXJGZZ',
 IResourceCatalog::TYPE['MBFQYML'] => 'MBFQYML',
 IResourceCatalog::TYPE['SHTTDJXX'] => 'SHTTDJXX',
+IResourceCatalog::TYPE['SHGW'] => 'SHGW',
+IResourceCatalog::TYPE['SSZK'] => 'SSZK',
+IResourceCatalog::TYPE['STWJ'] => 'STWJ',
+IResourceCatalog::TYPE['WFCXYZ'] => 'WFCXYZ',
+IResourceCatalog::TYPE['WFXFAQ'] => 'WFXFAQ',
+IResourceCatalog::TYPE['WHGGAQ'] => 'WHGGAQ',
+IResourceCatalog::TYPE['WPXS'] => 'WPXS',
+IResourceCatalog::TYPE['XSJMWL'] => 'XSJMWL',
+IResourceCatalog::TYPE['YXGZ'] => 'YXGZ',
+IResourceCatalog::TYPE['ZZQMXD'] => 'ZZQMXD',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
