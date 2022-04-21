@@ -64,17 +64,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['HEIMDFR'],
             self::TYPE['SFCYRYXX'],
 
-            self::TYPE['SHGW'],
-            self::TYPE['SSZK'],
-            self::TYPE['STWJ'],
-            self::TYPE['WFCXYZ'],
-            self::TYPE['WFXFAQ'],
-            self::TYPE['WHGGAQ'],
-            self::TYPE['WPXS'],
-            self::TYPE['XSJMWL'],
-            self::TYPE['YXGZ'],
-            self::TYPE['ZZQMXD'],
-
             self::TYPE['SBYY'],
             self::TYPE['RSGJ'],
             self::TYPE['RLJJZX'],
