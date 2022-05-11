@@ -37,6 +37,12 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['RLJJZX'] => 'rljjzx',
         IResourceCatalog::TYPE['RSGJ'] => 'rsgj',
         IResourceCatalog::TYPE['SBYY'] => 'sbyy',
+        IResourceCatalog::TYPE['CCJCJG'] => 'ccjcjg',
+        IResourceCatalog::TYPE['GZRYXX'] => 'grryxx',
+        IResourceCatalog::TYPE['YSZYZGZXX'] => 'yszyzgzxx',
+        IResourceCatalog::TYPE['JSZGXX'] => 'jszgxx',
+        IResourceCatalog::TYPE['LSZYZGZXX'] => 'lszyzgzxx',
+        IResourceCatalog::TYPE['XYSFSQ'] => 'xysfsq',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test'
     );

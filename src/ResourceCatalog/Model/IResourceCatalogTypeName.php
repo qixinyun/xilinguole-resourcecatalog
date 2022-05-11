@@ -37,6 +37,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['RLJJZX'] => '扰乱经营秩序',
         IResourceCatalog::TYPE['RSGJ'] => '人身攻击',
         IResourceCatalog::TYPE['SBYY'] => '散布谣言',
+        IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
+        IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
+        IResourceCatalog::TYPE['YSZYZGZXX'] => '医师执业资格证信息',
+        IResourceCatalog::TYPE['JSZGXX'] => '教师资格信息',
+        IResourceCatalog::TYPE['LSZYZGZXX'] => '律师执业资格证信息',
+        IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
