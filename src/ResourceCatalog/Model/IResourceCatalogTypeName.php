@@ -43,6 +43,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JSZGXX'] => '教师资格信息',
         IResourceCatalog::TYPE['LSZYZGZXX'] => '律师执业资格证信息',
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
