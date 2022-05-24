@@ -1,2 +1,6 @@
 # xilinguole-resourcecatalog
 锡林郭勒资源目录包
+
+
+### <a name="version">版本记录</a>
+* [0.7.0](./Docs/Version/0.7.0.md "0.7.0")
