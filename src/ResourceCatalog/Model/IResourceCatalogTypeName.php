@@ -44,6 +44,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['LSZYZGZXX'] => '律师执业资格证信息',
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
+        IResourceCatalog::TYPE['QYGGXYXX'] => '企业高管信用信息',
+        IResourceCatalog::TYPE['QYJTXYXX'] => '企业集团信用信息',
+        IResourceCatalog::TYPE['GRZZXKXX'] => '个人资质许可信息',
+        IResourceCatalog::TYPE['QYJBXX'] => '企业基本信息',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );

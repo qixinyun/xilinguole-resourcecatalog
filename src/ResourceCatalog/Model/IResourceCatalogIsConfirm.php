@@ -44,6 +44,10 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['LSZYZGZXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['XYSFSQ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['QYGGXYXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['QYJTXYXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['GRZZXKXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['QYJBXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         //@position
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM']
     );
