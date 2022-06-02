@@ -48,6 +48,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYJTXYXX'] => '企业集团信用信息',
         IResourceCatalog::TYPE['GRZZXKXX'] => '个人资质许可信息',
         IResourceCatalog::TYPE['QYJBXX'] => '企业基本信息',
+        IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );

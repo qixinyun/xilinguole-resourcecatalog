@@ -48,7 +48,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'QYJTXYXX'=>40,
         'GRZZXKXX'=>41,
         'QYJBXX' => 42,
-        //@position_type_43
+        'QYHYSJ' => 43,
+        //@position_type_44
         'TEST' => 500,
     );
 
@@ -58,6 +59,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK'],
             self::TYPE['CCJCJG'],
+            self::TYPE['QYHYSJ'],
         ),
         IUserGroup::ID['XLGLMFZHGGWYH'] => array(
             self::TYPE['GRZZXKXX'],
