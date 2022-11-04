@@ -50,6 +50,11 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['GRZZXKXX'] => 'GRZZXKXX',
         IResourceCatalog::TYPE['QYJBXX'] => 'QYJBXX',
         IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
+        IResourceCatalog::TYPE['XZCJ'] => 'XZCJ',
+        IResourceCatalog::TYPE['XZJDJC'] => 'XZJDJC',
+        IResourceCatalog::TYPE['XZJL'] => 'XZJL',
+        IResourceCatalog::TYPE['XZQR'] => 'XZQR',
+        IResourceCatalog::TYPE['XZQZ'] => 'XZQZ',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
