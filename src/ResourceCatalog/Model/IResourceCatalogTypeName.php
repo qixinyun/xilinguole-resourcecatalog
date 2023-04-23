@@ -54,7 +54,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJL'] => '行政奖励信息――国标',
         IResourceCatalog::TYPE['XZQR'] => '行政确认信息――国标',
         IResourceCatalog::TYPE['XZQZ'] => '行政强制信息――国标',
-        IResourceCatalog::TYPE['LXGLZDZYMLXX'] => '镶黄旗奶食品诚信示范园区主体基本信息',
+        IResourceCatalog::TYPE['LXGLZDZYMLXX'] => '履行管理制度资源目录信息',
         IResourceCatalog::TYPE['XHQNSPCXSFYQZTXX'] => '镶黄旗奶食品诚信示范园区主体基本信息',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
