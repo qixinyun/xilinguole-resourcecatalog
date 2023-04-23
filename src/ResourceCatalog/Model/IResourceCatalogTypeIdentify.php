@@ -55,6 +55,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['XZJL'] => 'XZJL',
         IResourceCatalog::TYPE['XZQR'] => 'XZQR',
         IResourceCatalog::TYPE['XZQZ'] => 'XZQZ',
+        IResourceCatalog::TYPE['LXGLZDZYMLXX'] => 'LXGLZDZYMLXX',
+        IResourceCatalog::TYPE['XHQNSPCXSFYQZTXX'] => 'XHQNSPCXSFYQZTXX',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
