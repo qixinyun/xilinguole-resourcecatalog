@@ -71,10 +71,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZCJ'],
             self::TYPE['CCJCJG'],
             self::TYPE['QYHYSJ'],
+            self::TYPE['XHQNSPCXSFYQZTXX']
         ),
         IUserGroup::ID['XLGLMFZHGGWYH'] => array(
             self::TYPE['LXGLZDZYMLXX'],
-            self::TYPE['XHQNSPCXSFYQZTXX'],
             self::TYPE['GRZZXKXX'],
             self::TYPE['QYJTXYXX'],
             self::TYPE['QYGGXYXX'],
