@@ -71,7 +71,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZCJ'],
             self::TYPE['CCJCJG'],
             self::TYPE['QYHYSJ'],
-            self::TYPE['XHQNSPCXSFYQZTXX']
+            self::TYPE['XHQNSPCXSFYQZTXX'],
+            self::TYPE['HMDZRR'],
+            self::TYPE['HMDFR'],
+            self::TYPE['HEIMDZRR'],
+            self::TYPE['HEIMDFR'],
         ),
         IUserGroup::ID['XLGLMFZHGGWYH'] => array(
             self::TYPE['LXGLZDZYMLXX'],
@@ -89,10 +93,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['STWJ'],
             self::TYPE['SSZK'],
             self::TYPE['SHGW'],
-            self::TYPE['HMDZRR'],
-            self::TYPE['HMDFR'],
-            self::TYPE['HEIMDZRR'],
-            self::TYPE['HEIMDFR'],
             self::TYPE['SFCYRYXX'],
             self::TYPE['SBYY'],
             self::TYPE['RSGJ'],
@@ -111,8 +111,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['XLGLMWXCB'] => array(),
         IUserGroup::ID['XLGLMZFW'] => array(),
         IUserGroup::ID['XLGLMZJRMFY'] => array(
-            self::TYPE['HEIMDZRR'],
-            self::TYPE['HEIMDFR'],
         ),
         IUserGroup::ID['XLGLMRMJCY'] => array(),
         IUserGroup::ID['XLGLMJYJ'] => array(
@@ -131,10 +129,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         ),
         IUserGroup::ID['XLGLMCZJ'] => array(),
         IUserGroup::ID['XLGLMRLZYHSHBZJ'] => array(
-            self::TYPE['HMDZRR'],
-            self::TYPE['HMDFR'],
-            self::TYPE['HEIMDZRR'],
-            self::TYPE['HEIMDFR'],
             self::TYPE['GZRYXX'],
         ),
         IUserGroup::ID['XLGLMZRZYJ'] => array(),
@@ -147,10 +141,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['XLGLMHZGSJRGZBGS'] => array(),
         IUserGroup::ID['XLGLMXFJ'] => array(),
         IUserGroup::ID['XLGLMSWJ'] => array(
-            self::TYPE['HMDZRR'],
-            self::TYPE['HMDFR'],
-            self::TYPE['HEIMDZRR'],
-            self::TYPE['HEIMDFR'],
         ),
         IUserGroup::ID['XLGLMYBJJ'] => array(),
         IUserGroup::ID['XLGLMYCZMJ'] => array(),
